@@ -8,3 +8,7 @@
 [Lab4](https://github.com/ak2552/Ankur_Kapoor_IDD/blob/master/Lab4.md)
 
 [Lab5](https://github.com/ak2552/Ankur_Kapoor_IDD/blob/master/Lab5.md)
+
+[Lab6](https://github.com/ak2552/IDD-Fa19-Lab6)
+
+[Lab7](https://github.com/ak2552/IDD-Fa19-Lab7)
